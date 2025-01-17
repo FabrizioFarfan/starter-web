@@ -15,10 +15,12 @@ As stated above, the math purpose is to
 provide simple examples fot Git training
 demos.
 
-## How to Contribute
+## Deployment
 
 This is a simple web project, deployment
 can be on any web server or even local 
 file system.
 
-## Deployment
+## How to Contribute
+
+### Copytight
